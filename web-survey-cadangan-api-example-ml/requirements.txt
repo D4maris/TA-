@@ -1,0 +1,11 @@
+flask
+Flask-Cors
+pandas
+numpy
+regex
+Sastrawi
+pickle-mixin
+sklearn
+scipy
+gunicorn
+requests
